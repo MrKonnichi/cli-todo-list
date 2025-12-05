@@ -1,4 +1,4 @@
-a simple python cli todo list with no dependancies
+a simple python cli todo list with no dependancies it stores the tasks in a "todo.txt" file
 
 to add a task: add \<text>
 
